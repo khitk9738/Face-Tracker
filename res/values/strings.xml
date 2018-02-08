@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Face Recognition</string>
+    <string name="training">Training</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+</resources>
